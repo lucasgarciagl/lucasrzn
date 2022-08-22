@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá 👋
 
-<!--
-**Lucasrzn/lucasrzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Iniciando no mundo da programação 👨‍💻
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrzn&theme=dark)](https://github.com/lucasrzn/github-readme-stats)
+
+
+# Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasrzn&repo=lucasrznprojetodev.github.io&theme=dark)](https://github.com/lucasrzn/github-readme-stats)
+
+# Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/lucas-garcia-aa354b112)
